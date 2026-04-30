@@ -1,7 +1,7 @@
 # Sales Performance Dashboard 
 
 An interactive Power BI dashboard analysing global sales performance 
-across 7 regions, 76 countries, and 12 product types — enabling 
+across 7 regions, 76 countries, and 12 product types, enabling 
 data-driven decisions on revenue, cost, and profitability.
 
 ---
