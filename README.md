@@ -64,7 +64,7 @@ performers, underperforming markets, and profitability gaps at a glance.
 ---
 
 ## Dashboard Preview
-![Sales Performance Dashboard](screenshots/Sales_Performance_Dashboard.png)
+![Sales Performance Dashboard](Screenshot 2026-04-13 223213.png)
 
 
 ---
