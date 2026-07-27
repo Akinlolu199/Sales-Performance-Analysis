@@ -21,6 +21,11 @@ performers, underperforming markets, and profitability gaps at a glance.
 - **Excel / SQL** – Data cleaning and preparation
 
 ---
+##   Data set Used
+- <a href="https://github.com/Akinlolu199/Sales-Performance-Analysis/blob/main/Sales%20Data%20cleaned%20for%20Power%20BI.xlsx" >Data set </a>
+- <a href="https://app.powerbi.com/reportEmbed?reportId=4b9651bc-3d55-4969-8f1c-d953c8ec20b3&autoAuth=true&ctid=39e7c730-cf3e-4d8d-84cf-7f436797834e&actionBarEnabled=true" > Interactive Dashboard </a>
+- <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/ADDs%20Perfomance%20Dashboard.pbix" >Power Bi file </a>
+---
 
 ## Dashboard Features
 - **KPI Cards** – Region (7), Country (76), Item Type (12),
