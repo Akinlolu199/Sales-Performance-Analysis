@@ -24,7 +24,7 @@ performers, underperforming markets, and profitability gaps at a glance.
 ##   Data set Used
 - <a href="https://github.com/Akinlolu199/Sales-Performance-Analysis/blob/main/Sales%20Data%20cleaned%20for%20Power%20BI.xlsx" >Data set </a>
 - <a href="https://app.powerbi.com/reportEmbed?reportId=4b9651bc-3d55-4969-8f1c-d953c8ec20b3&autoAuth=true&ctid=39e7c730-cf3e-4d8d-84cf-7f436797834e&actionBarEnabled=true" > Interactive Dashboard </a>
-- <a href="" >Power Bi file </a>
+- <a href="https://github.com/Akinlolu199/Sales-Performance-Analysis/blob/main/SALES%20PERFORMANCE%20DASHBOARD.pbix" >Power Bi file </a>
 ---
 
 ## Dashboard Features
@@ -69,7 +69,8 @@ performers, underperforming markets, and profitability gaps at a glance.
 ---
 
 ## Dashboard Preview
-![Sales Performance Dashboard](Screenshot 2026-04-13 223213.png)
+<img width="1381" height="780" alt="Sales Performance Dashboard 2" src="https://github.com/user-attachments/assets/7936c10b-7710-49bf-98a8-73fc3e036cb3" />
+
 
 
 ---
